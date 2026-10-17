@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="94" viewBox="0 0 360 94" role="img"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060D1E"/><stop offset=".58" stop-color="#0A1733"/><stop offset="1" stop-color="#12285B"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9DE7FF"/><stop offset=".47" stop-color="#478FF8"/><stop offset="1" stop-color="#4854D9"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B7FFE7"/><stop offset=".65" stop-color="#3DDAC6"/><stop offset="1" stop-color="#2B87D5"/></linearGradient>
+  <linearGradient id="faceL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3485D8"/><stop offset="1" stop-color="#16335F"/></linearGradient>
+  <linearGradient id="faceR" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B4A8D"/><stop offset="1" stop-color="#122446"/></linearGradient>
+  <radialGradient id="orb"><stop offset="0" stop-color="#326EFD" stop-opacity=".43"/><stop offset="1" stop-color="#326EFD" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orb2"><stop offset="0" stop-color="#45D9FA" stop-opacity=".21"/><stop offset="1" stop-color="#45D9FA" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="8"/></filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#6E9EC8" stroke-opacity=".105" fill="none" stroke-width="1"/></pattern>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#76ACED" fill-opacity=".2"/></pattern>
+ </defs><rect x="0" y="0" width="360" height="94" rx="14" fill="#101F36" stroke="#39658D" stroke-opacity=".65" stroke-width="1.5"/><rect x="13" y="13" width="65" height="67" rx="11" fill="#183452" stroke="#E8AEFA" stroke-opacity=".43"/><text x="45" y="56" fill="#E8AEFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800" text-anchor="middle">B</text><text x="95" y="31" fill="#83A9C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="750" letter-spacing="1.65">MARKETPLACE</text><text x="94" y="65" fill="#F0F9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750" >BuiltByBit</text><path d="M326 42l10 9-10 9M316 51h19" stroke="#E8AEFA" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
